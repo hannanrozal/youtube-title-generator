@@ -8,7 +8,7 @@ export const Navbar: FC = () => {
           className="ml-2 hover:opacity-50"
           href="https://tini.honeycrist.eu.org"
         >
-          TINI BOT
+          Youtube Title Generator
         </a>
       </div>
     </div>
