@@ -80,7 +80,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Ash Ketchum. How can I help you?`
+        content: `Please provide me with your Video Topic`
       }
     ]);
   };
@@ -93,7 +93,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm Ash Ketchum. How can I help you?`
+        content: `Please provide me with your Video Topic`
       }
     ]);
   }, []);
@@ -101,10 +101,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>TINI Bot</title>
+        <title>Youtube Title Generator</title>
         <meta
           name="description"
-          content="A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS."
+          content="A simple Youtube Title Generator with OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS."
         />
         <meta
           name="viewport"
