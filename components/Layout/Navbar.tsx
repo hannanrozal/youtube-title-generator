@@ -6,7 +6,7 @@ export const Navbar: FC = () => {
       <div className="font-bold text-3xl flex items-center">
         <a
           className="ml-2 hover:opacity-50"
-          href="https://tini.honeycrist.eu.org"
+          href="https://thehoneytech.blogspot.com/p/youtube-title-generator.html"
         >
           Youtube Title Generator
         </a>
